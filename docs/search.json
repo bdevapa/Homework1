@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "data_science.html",
+    "href": "data_science.html",
+    "title": "data_science.qmd",
+    "section": "",
+    "text": "I think being a data scientist is about using data to solve real problems and support better decision making. It involves more than building statistical models. A data scientist needs to understand the problem, determine whether the data at hand can answer it, clean, transform and analyze the data. The results of this process should be communicated in useful way.\n\n\n\nA lot in common. Both user data to understand problems, identify patterns, build models, and draw conclusions. In fact, statistics provide much of the mathematical foundation for data science.\nWhere I see they differ is, while statistics is more of building mathematical foundation to solve the problems, it usually doesn’t involve any programming, creating data pipelines, and productionising, thereby making statistical models scalable.\n\n\n\nMy working experience has primarily been in software engineering.Therefore I see myself closer to the part of data science that statisticians usually are not.I want to learn and add strong statistics knowledge and data science skills to my portfolio. I want to become comfortable in producing useful information from the data that I deal with on daily basis."
+  },
+  {
+    "objectID": "data_science.html#what-is-being-a-data-scientist-about",
+    "href": "data_science.html#what-is-being-a-data-scientist-about",
+    "title": "data_science.qmd",
+    "section": "",
+    "text": "I think being a data scientist is about using data to solve real problems and support better decision making. It involves more than building statistical models. A data scientist needs to understand the problem, determine whether the data at hand can answer it, clean, transform and analyze the data. The results of this process should be communicated in useful way."
+  },
+  {
+    "objectID": "data_science.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "data_science.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "data_science.qmd",
+    "section": "",
+    "text": "A lot in common. Both user data to understand problems, identify patterns, build models, and draw conclusions. In fact, statistics provide much of the mathematical foundation for data science.\nWhere I see they differ is, while statistics is more of building mathematical foundation to solve the problems, it usually doesn’t involve any programming, creating data pipelines, and productionising, thereby making statistical models scalable."
+  },
+  {
+    "objectID": "data_science.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "href": "data_science.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "title": "data_science.qmd",
+    "section": "",
+    "text": "My working experience has primarily been in software engineering.Therefore I see myself closer to the part of data science that statisticians usually are not.I want to learn and add strong statistics knowledge and data science skills to my portfolio. I want to become comfortable in producing useful information from the data that I deal with on daily basis."
+  }
+]
